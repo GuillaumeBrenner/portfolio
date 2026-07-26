@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Site vitrine ARCHILUX — image 3">
+  <rect width="1600" height="1000" fill="#EFEDE5"/>
+  <rect x="24" y="24" width="1552" height="952" rx="18" fill="none" stroke="#D9D7CE" stroke-width="2" stroke-dasharray="14 12"/>
+  <g transform="translate(800,430)" fill="none" stroke="#B9B7AE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-150" y="-110" width="300" height="220" rx="16"/>
+    <circle cx="-70" cy="-40" r="34" fill="#B9B7AE" stroke="none"/>
+    <path d="M-150 70 L-40 -20 L40 60 L100 10 L150 60"/>
+  </g>
+  <text x="800" y="640" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" fill="#15150F" text-anchor="middle">Site vitrine ARCHILUX</text>
+  <text x="800" y="712" font-family="'Courier New',monospace" font-size="30" fill="#2B4EFF" text-anchor="middle">IMAGE 3 / 3</text>
+  <text x="800" y="775" font-family="Segoe UI,Arial,sans-serif" font-size="30" fill="#71706A" text-anchor="middle">Remplace ce fichier par ta capture d'écran</text>
+</svg>
